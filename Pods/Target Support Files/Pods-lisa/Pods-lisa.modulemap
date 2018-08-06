@@ -1,0 +1,6 @@
+framework module Pods_lisa {
+  umbrella header "Pods-lisa-umbrella.h"
+
+  export *
+  module * { export * }
+}
